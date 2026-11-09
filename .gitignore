@@ -1,0 +1,30 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# Competition data
+**/playground-series-s6e11/
+**/*.csv
+**/*.parquet
+
+# Model and experiment outputs
+**/outputs/
+**/*.cbm
+**/*.joblib
+**/*.pkl
+**/*.pickle
+**/*.onnx
+
+# Logs
+**/*.log
+
+# OS
+.DS_Store
+Thumbs.db
