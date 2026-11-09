@@ -18,13 +18,11 @@ kanggle/
 │   ├── test.csv
 │   └── sample_submission.csv
 ├── config.py
-├── data_utils.py
-├── train_models.py
-├── requirements.txt
 └── outputs/
     ├── models/
     ├── submissions/
     └── run_*/
+
 ```
 
 ## 安装环境
